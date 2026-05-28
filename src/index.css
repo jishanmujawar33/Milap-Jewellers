@@ -1,0 +1,62 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Cormorant Garamond", "Playfair Display", Georgia, serif;
+  --font-sans: "Inter", system-ui, sans-serif;
+  --color-gold-50: #fdfaf4;
+  --color-gold-100: #f6ecce;
+  --color-gold-200: #eecf94;
+  --color-gold-300: #dcb165;
+  --color-gold-400: #cb9742;
+  --color-gold-500: #b88230;
+  --color-gold-600: #986523;
+  --color-gold-700: #7b4e1b;
+  --color-gold-800: #5c3b14;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: #faf8f5;
+  color: #2a231d;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, .font-serif-luxury {
+  font-family: var(--font-serif);
+}
+
+/* Elegant gold glowing utilities */
+.gold-glow {
+  box-shadow: 0 0 15px rgba(220, 177, 101, 0.2);
+}
+
+.gold-glow-hover:hover {
+  box-shadow: 0 0 25px rgba(220, 177, 101, 0.4);
+}
+
+/* Custom smooth transition */
+.luxury-transition {
+  transition: all 0.5s cubic-bezier(0.25, 1, 0.5, 1);
+}
+
+/* Infinite smooth drift for background elements */
+@keyframes luxuryDrift {
+  0% { transform: translate(0px, 0px) scale(1); }
+  50% { transform: translate(30px, -20px) scale(1.05); }
+  100% { transform: translate(0px, 0px) scale(1); }
+}
+
+.animate-luxury-drift {
+  animation: luxuryDrift 20s infinite ease-in-out;
+}
+
+@keyframes luxuryDriftReverse {
+  0% { transform: translate(0px, 0px) scale(1); }
+  50% { transform: translate(-30px, 20px) scale(1.05); }
+  100% { transform: translate(0px, 0px) scale(1); }
+}
+
+.animate-luxury-drift-reverse {
+  animation: luxuryDriftReverse 25s infinite ease-in-out;
+}
+

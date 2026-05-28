@@ -1,0 +1,17 @@
+# Milap Jewellers - Product Catalog Assets
+
+Place high-resolution square or portrait photos of finished jewelry items here.
+
+### Target filenames expected by the database:
+- **`royal-gilded-choker.jpg`** (The Royal Gilded Choker Set)
+- **`celestial-solitaire-ring.jpg`** (The Celestial Solitaire Ring)
+- **`antique-heritage-kadas.jpg`** (Antique Nakshi Heritage Kadas)
+- **`polki-medallion-jhumkas.jpg`** (Heritage Polki Medallion Jhumkas)
+- **`temple-emerald-necklace.jpg`** (Golden Temple Emerald Necklace)
+- **`infinite-tennis-cuff.jpg`** (Infinite Light Tennis Cuff)
+- **`varanasi-blossom-jhumkas.jpg`** (Varanasi Blossom Jhumkas)
+- **`imperial-kundan-mathapatti.jpg`** (Imperial Kundan Matha Patti Set)
+- **`filigree-silver-kada.jpg`** (Imperial Filigree Silver Kada)
+- **`silver-tea-set.jpg`** (Classic Sterling Silver Tea Set)
+
+If any photo is not uploaded yet, the website automatically falls back to an elegant online placeholder so there are never any broken links!

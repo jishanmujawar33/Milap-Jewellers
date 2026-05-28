@@ -1,0 +1,6 @@
+{
+  "name": "Milap Jewellers",
+  "description": "A luxury jewelry showcase featuring elegant bridal, antique gold, and diamond collections, with seamless customer inquiry integration via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

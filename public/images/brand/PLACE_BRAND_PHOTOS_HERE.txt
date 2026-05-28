@@ -1,0 +1,8 @@
+# Milap Jewellers - Brand Assets Folder
+
+Place any branding, logos, app-icons, and custom launch screen images here.
+
+### Target Filenames defined in code:
+- **Logo Symbol**: `logo_symbol.png` (Used for the crest brand emblem)
+- **Primary Logo Text Combination**: `milap_logo_full.png` (For general headers/footers)
+- **Launch Screen Background**: `intro_bg.jpg` (Used as the cinema launch overlay)

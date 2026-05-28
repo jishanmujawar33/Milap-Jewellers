@@ -1,0 +1,8 @@
+# Milap Jewellers - Hero Slide Assets
+
+Place premium widescreen landscape photos of jewelry models, cinematic close-ups, or workshop processes here. Recommended aspect ratio is 16:9 or wider (1920x1080 or heavier).
+
+### Target filenames expected by wide banners:
+- **`hero-bridal-choker.jpg`** (Royal Gilded Choker slide background)
+- **`hero-solitaire-sparkle.jpg`** (Diamond GIA solitaire slide background)
+- **`hero-nakshi-antique.jpg`** (Ancient Gold Nakshi collection background)

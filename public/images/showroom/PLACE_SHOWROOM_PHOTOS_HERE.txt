@@ -1,0 +1,11 @@
+# Milap Jewellers - Boutique Showroom Assets
+
+Place real photos of your physical showroom storefront, counters, consulting desks, and lounge interiors here. Recommended aspect ratio is 4:3 or 16:9 widescreen.
+
+### Target filenames expected by the interactive showroom tour:
+- **`showroom-storefront.jpg`** (Hanuman Nagar Flagship Front Facade)
+- **`showroom-gold-salon.jpg`** (The main gold & diamond viewing room counter)
+- **`showroom-private-suite.jpg`** (Private family consultation bridal suite)
+- **`showroom-atelier-desk.jpg`** (In-person Karigar design custom desk)
+- **`showroom-polki-room.jpg`** (Traditional uncut Jadau premium capsule)
+- **`showroom-solitaire-lab.jpg`** (GIA scientific solitaire grading chamber)
